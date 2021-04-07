@@ -1,10 +1,10 @@
-# B-AI / Transaction Classifier
+# Transaction Classifier
 
-Final projet for the Building AI course
+Final project for the Building AI course
 
 ## Summary
  
-An AI to automatically classify transactions into the right categories to assist budgeting. Should be easy to use.
+An AI to automatically classify transactions into the right categories to assist managing a budget. Should be easy to use.
       
         
 ## Background
@@ -41,13 +41,12 @@ These would be collecteed by the user themselves.
  
 ## Challenges
         
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+It dodes not solve companies hiding their payments behind a veil.
       
         
 ## What next?
 
 Add data parsed from pdfs.
-      
         
 ## Acknowledgments
 
