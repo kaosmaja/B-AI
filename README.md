@@ -28,7 +28,7 @@ I also had other interesting ideas, but they would not be implementable within t
 def main(in):
    # classify according to recipient and product
    # add to csv file
-   
+   return out
 
 ```
       
