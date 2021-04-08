@@ -16,7 +16,7 @@ I also had other interesting ideas, but they would not be implementable within t
 ## How is it used?
 
     IN: CSV-file on its own.
-    OUT: Laballed CSV-file.
+    OUT: Labelled CSV-file.
     Applicable situation: To save time figuring out your spendings.
     Users: Everyone who needs an overview of their budget and spendings.
     Needs: Should be easy to use, not make things take longer
